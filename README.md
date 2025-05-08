@@ -4,7 +4,7 @@
 
 目前已支持票据类解析结果（key-value）的展示，具体对应 Textin[票据文字识别](https://www.textin.com/product/textin_bill)如[国内通用票据识别](https://www.textin.com/market/detail/bill_recognize_v2)、[银行回单识别](https://www.textin.com/market/detail/bank_receipts)、[电子承兑汇票识别](https://www.textin.com/market/detail/electr_acceptance_bill)等相关产品识别结果的展示。
 
-组件库使用的数据结构是规范后的前端数据结构，使用时需要将 OCR 识别 API 返回的数据转换为前端使用的结构，具体参见本项目[examples](./src/examples/data.ts)，原始数据结构参见 Textin 官网[API 文档](https://www.textin.com/document/bill_recognize_v2)。
+组件库使用的数据结构是规范后的前端数据结构，使用时需要将 OCR 识别 API 返回的数据转换为前端使用的结构，具体参见本项目[examples](https://github.com/intsig-textin/textin-ocr-frontend/blob/main/src/examples/data.ts)，原始数据结构参见 Textin 官网[API 文档](https://www.textin.com/document/bill_recognize_v2)。
 
 ## 特性
 
@@ -336,9 +336,9 @@ const { tools, scale, rotate, position, onMouseDown, onWheel, resizeScale } =
 
 ## 示例
 
-#### [图片示例](./src/examples/ImageExample.tsx)
+#### [图片示例](https://github.com/intsig-textin/textin-ocr-frontend/tree/main/src/examples/ImageExample.tsx)
 
-#### [PDF 示例](./src/examples/PDFExample.tsx)
+#### [PDF示例](https://github.com/intsig-textin/textin-ocr-frontend/tree/main/src/examples/PDFExample.tsx)
 
 ## 未来规划
 
@@ -357,7 +357,7 @@ const { tools, scale, rotate, position, onMouseDown, onWheel, resizeScale } =
 拉取项目
 
 ```bash
-git clone https://github.com/intsig-textin/parsex-frontend.git
+git clone https://github.com/intsig-textin/textin-ocr-frontend.git
 ```
 
 安装依赖
@@ -376,8 +376,8 @@ npm run dev
 
 ## 贡献
 
-欢迎贡献代码！在开始之前，请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 以了解贡献流程和指南。
+欢迎贡献代码！在开始之前，请阅读 [CONTRIBUTING.md](https://github.com/intsig-textin/textin-ocr-frontend/blob/main/CONTRIBUTING.md) 以了解贡献流程和指南。
 
 ## 许可证
 
-此项目基于 [CC-NC License](LICENSE) 进行许可。
+本项目采用 [CC-NC License](https://github.com/intsig-textin/textin-ocr-frontend/blob/main/LICENSE)。
