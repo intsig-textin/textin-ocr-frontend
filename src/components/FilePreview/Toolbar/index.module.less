@@ -1,0 +1,46 @@
+.toolbar {
+  position: relative;
+  .toolbarList {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 60px;
+    padding: 20px 0;
+    color: #030a1a;
+    text-align: center;
+    list-style: none;
+    pointer-events: auto;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    .toolItem {
+      height: 20px;
+      margin-left: 16px;
+      line-height: 20px;
+      cursor: pointer;
+    }
+    .toolItemIcon {
+      width: 20px;
+      height: 20px;
+    }
+    .toolItemDisabled {
+      pointer-events: none;
+      color: #c5c7cf;
+      :global {
+        svg g {
+          fill: #c5c7cf;
+        }
+      }
+    }
+    .toolSplitLine {
+      width: 1px;
+      height: 20px;
+      margin-left: 16px;
+      overflow: hidden;
+      font-size: 20px;
+      line-height: 20px;
+      background: #c5c7cf;
+    }
+  }
+}

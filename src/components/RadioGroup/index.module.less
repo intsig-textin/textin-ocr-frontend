@@ -1,0 +1,40 @@
+.radioGroup {
+  display: flex;
+  align-items: center;
+  row-gap: 8px;
+}
+
+.radioButton {
+  cursor: pointer;
+  &:hover {
+    .radioButtonLabel {
+      color: #1a66ff;
+    }
+  }
+}
+
+.radioButtonLabel {
+  display: flex;
+  justify-content: center;
+  padding: 4px 20px;
+  border: 1px solid #dcdfe5;
+  background-color: #fff;
+  color: #030a1a;
+  cursor: pointer;
+}
+
+.radioButtonLabelChecked {
+  color: #1a66ff;
+  border-color: #1a66ff;
+}
+
+.lineTypeRadioGroup {
+  .radioButtonLabel {
+    border: none;
+    border-bottom: 1px solid #dcdfe5;
+  }
+  .radioButtonLabelChecked {
+    border-width: 2px;
+    border-color: #1a66ff;
+  }
+}

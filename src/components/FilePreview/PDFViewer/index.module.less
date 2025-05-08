@@ -1,0 +1,334 @@
+@fill-alpha: 0;
+@fill-active-alpha: 0.15;
+@stroke-alpha: 1;
+@primary-color: #1a66ff;
+
+@paragraph-color: @primary-color;
+@title-color: @primary-color;
+@stamp-color: #ad581a;
+@list-color: #5d2281;
+@image-color: #bd8d1c;
+@formula-color: #d94141;
+@catalog-color: #695cff;
+@handwriting-color: #9c32d1;
+@question_stem-color: #9c32d1;
+@question_content-color: #0a91f2;
+@watermark-color: #6abe28;
+@table-color: #11a35f;
+@header-footer-color: #637599; // 页眉页脚
+
+.pdf-viewer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-sizing: content-box;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #a2a8b2;
+    border-radius: 8px;
+  }
+
+  * {
+    box-sizing: content-box;
+
+    user-select: text;
+
+    ::selection {
+      color: transparent;
+    }
+  }
+
+  :global {
+    .pdfViewer.removePageBorders .page {
+      margin-bottom: 12px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+    .page {
+      .rectLayer {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 10;
+        overflow: visible;
+        transform-origin: left top;
+
+        polygon,
+        polyline,
+        path {
+          vector-effect: non-scaling-stroke;
+        }
+
+        polygon {
+          fill: rgba(@primary-color, @fill-alpha);
+          stroke: rgba(@primary-color, 0.5);
+          stroke-width: 1px;
+
+          &.active {
+            fill: rgba(@primary-color, @fill-active-alpha);
+            stroke: @primary-color;
+            stroke-width: 2px;
+          }
+
+          &.paragraph {
+            fill: rgba(@paragraph-color, @fill-alpha);
+            stroke: rgba(@paragraph-color, 0.6);
+
+            &.active {
+              fill: rgba(@paragraph-color, @fill-active-alpha);
+              stroke: @paragraph-color;
+            }
+          }
+
+          &.table {
+            fill: rgba(@table-color, @fill-alpha);
+            stroke: rgba(@table-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@table-color, @fill-active-alpha);
+              stroke: @table-color;
+            }
+          }
+
+          &.stamp {
+            fill: rgba(@stamp-color, @fill-alpha);
+            stroke: rgba(@stamp-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@stamp-color, @fill-active-alpha);
+              stroke: @stamp-color;
+            }
+          }
+
+          &.image {
+            fill: rgba(@image-color, @fill-alpha);
+            stroke: rgba(@image-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@image-color, @fill-active-alpha);
+              stroke: @image-color;
+            }
+          }
+
+          &.formula {
+            fill: rgba(@formula-color, @fill-alpha);
+            stroke: rgba(@formula-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@formula-color, @fill-active-alpha);
+              stroke: @formula-color;
+            }
+          }
+
+          &.handwriting {
+            fill: rgba(@handwriting-color, @fill-alpha);
+            stroke: rgba(@handwriting-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@handwriting-color, @fill-active-alpha);
+              stroke: @handwriting-color;
+            }
+          }
+
+          &.catalog_text {
+            fill: rgba(@catalog-color, @fill-alpha);
+            stroke: rgba(@catalog-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@catalog-color, @fill-active-alpha);
+              stroke: @catalog-color;
+            }
+          }
+
+          &.title {
+            fill: rgba(@title-color, @fill-alpha);
+            stroke: rgba(@title-color, 1);
+            stroke-width: 2px;
+
+            &.active {
+              fill: rgba(@title-color, @fill-active-alpha);
+              stroke: @title-color;
+            }
+          }
+
+          &.question_stem {
+            fill: rgba(@question_stem-color, @fill-alpha);
+            stroke: rgba(@question_stem-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@question_stem-color, @fill-active-alpha);
+              stroke: @question_stem-color;
+            }
+          }
+
+          &.question_content {
+            fill: rgba(@question_content-color, @fill-alpha);
+            stroke: rgba(@question_content-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@question_content-color, @fill-active-alpha);
+              stroke: @question_content-color;
+            }
+          }
+
+          &.header_footer {
+            fill: rgba(@header-footer-color, 0.1);
+            stroke: rgba(@header-footer-color, @stroke-alpha);
+
+            &.active {
+              fill: rgba(@header-footer-color, @fill-active-alpha);
+              stroke: @header-footer-color;
+            }
+          }
+
+          &.catalog {
+            // box-shadow: 2px 2px 4px 0px #e6fffb, -2px -2px 4px 0px #ffffff;
+            opacity: 0;
+            // fill: rgba(#00474f, @fill-alpha);
+            // stroke: #00474f;
+
+            &.active:local {
+              transform-origin: center;
+              animation: catalogAnimate 0.5s linear;
+              transform-box: fill-box;
+
+              @keyframes catalogAnimate {
+                0% {
+                  transform: scale(1.08);
+                }
+
+                25% {
+                  transform: scale(0.95);
+                }
+
+                50% {
+                  transform: scale(1.08);
+                }
+
+                75% {
+                  transform: scale(0.95);
+                }
+
+                100% {
+                  transform: scale(1);
+                }
+              }
+            }
+          }
+        }
+
+        .cell-g-wrapper {
+          &.cell-g-hidden {
+            polygon.table {
+              opacity: 1 !important;
+              fill: rgba(@table-color, @fill-alpha);
+              &.active {
+                fill: rgba(@table-color, @fill-active-alpha);
+              }
+            }
+            path {
+              opacity: 0;
+            }
+            .cell-toggle-show {
+              display: none;
+            }
+            .cell-toggle-hidden {
+              display: block;
+            }
+          }
+
+          &.cell-g-wrapper-hover {
+            .cell-toggle-hidden,
+            .cell-toggle-show {
+              opacity: 1;
+            }
+          }
+
+          path {
+            fill: rgba(@paragraph-color, @fill-alpha);
+            stroke: rgba(@paragraph-color, @stroke-alpha);
+            stroke-width: 1px;
+
+            &.table {
+              fill: rgba(@table-color, @fill-alpha);
+              stroke: rgba(@table-color, @stroke-alpha);
+
+              &.active {
+                fill: rgba(@table-color, @fill-active-alpha);
+                stroke-width: 2px;
+              }
+            }
+          }
+
+          polygon.table {
+            fill: transparent;
+
+            &:not(:only-child) {
+              opacity: 0;
+            }
+          }
+
+          .cell-toggle-hidden {
+            display: none;
+            opacity: 0;
+          }
+          .cell-toggle-show {
+            display: block;
+            opacity: 0;
+          }
+        }
+
+        .section-line {
+          circle {
+            fill: rgba(@primary-color, 1);
+          }
+          polyline {
+            fill: none;
+            stroke: rgba(@primary-color, 1);
+            stroke-dasharray: 4;
+            stroke-width: 2px;
+          }
+          path {
+            fill: rgba(@primary-color, 1);
+          }
+
+          &.section-table {
+            circle {
+              fill: rgba(@table-color, 1);
+            }
+            polyline {
+              stroke: rgba(@table-color, 1);
+            }
+            path {
+              fill: rgba(@table-color, 1);
+            }
+          }
+        }
+      }
+      .textLayer {
+        z-index: 9;
+      }
+    }
+  }
+}
+
+.pdf-page {
+  position: absolute;
+  right: 8px;
+  bottom: -24px - 18px;
+  z-index: 99;
+  width: auto;
+}

@@ -1,0 +1,39 @@
+@text-color: #030a1a;
+
+.container {
+  overflow: hidden;
+  &:not(:last-child) {
+    margin-bottom: 16px;
+  }
+  :global {
+    .rowWrap {
+      position: relative;
+      margin-top: 16px;
+      .robot-result-item {
+        &:not(:last-child) {
+          margin-bottom: 8px;
+        }
+        .result-item-key {
+          padding-left: 10px;
+          color: #a2a8b2;
+          font-size: 12px;
+        }
+      }
+      .robot-result-item textarea {
+        color: @text-color;
+        font-size: 12px;
+      }
+
+      &::before {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 20px;
+        width: 2px;
+        background: #e4e4eb;
+        border-radius: 1;
+        content: "";
+      }
+    }
+  }
+}

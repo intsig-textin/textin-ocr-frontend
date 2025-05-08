@@ -1,0 +1,3044 @@
+{
+    "pages": [
+        {
+            "page_number": 0,
+            "duration": 1649,
+            "ppi": 247,
+            "result": {
+                "object_list": [
+                    {
+                        "stamp_list": [
+                            [
+                                {
+                                    "value": "财政票据监制章    北京市    财政部监制    ",
+                                    "position": [
+                                        879,
+                                        421,
+                                        1154,
+                                        418,
+                                        1157,
+                                        603,
+                                        882,
+                                        605
+                                    ],
+                                    "key": "stamp_info",
+                                    "description": "印章内容"
+                                },
+                                {
+                                    "value": "其他",
+                                    "position": [
+                                        879,
+                                        421,
+                                        1154,
+                                        418,
+                                        1157,
+                                        603,
+                                        882,
+                                        605
+                                    ],
+                                    "key": "stamp_type",
+                                    "description": "印章类型"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        879,
+                                        421,
+                                        1154,
+                                        418,
+                                        1157,
+                                        603,
+                                        882,
+                                        605
+                                    ],
+                                    "key": "stamp_invoice_seller_id",
+                                    "description": "印章销售方纳税人识别号"
+                                }
+                            ],
+                            [
+                                {
+                                    "value": "首都医科大学附属北京世纪坛医院    医疗收费专用章    ",
+                                    "position": [
+                                        426,
+                                        1327,
+                                        691,
+                                        1334,
+                                        688,
+                                        1511,
+                                        425,
+                                        1506
+                                    ],
+                                    "key": "stamp_info",
+                                    "description": "印章内容"
+                                },
+                                {
+                                    "value": "其他",
+                                    "position": [
+                                        426,
+                                        1327,
+                                        691,
+                                        1334,
+                                        688,
+                                        1511,
+                                        425,
+                                        1506
+                                    ],
+                                    "key": "stamp_type",
+                                    "description": "印章类型"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        426,
+                                        1327,
+                                        691,
+                                        1334,
+                                        688,
+                                        1511,
+                                        425,
+                                        1506
+                                    ],
+                                    "key": "stamp_invoice_seller_id",
+                                    "description": "印章销售方纳税人识别号"
+                                }
+                            ]
+                        ],
+                        "image_angle": 0,
+                        "type_description": "电子医疗发票",
+                        "rotated_image_width": 1725,
+                        "qr_code_list": [
+                            [
+                                {
+                                    "value": "https://www.textin.com/",
+                                    "position": [
+                                        1598,
+                                        495,
+                                        1791,
+                                        493,
+                                        1793,
+                                        685,
+                                        1600,
+                                        687
+                                    ],
+                                    "key": "qr_code_info",
+                                    "description": "二维码内容"
+                                }
+                            ]
+                        ],
+                        "rotated_image_height": 1181,
+                        "item_list": [
+                            {
+                                "value": "北京市医疗门诊收费票据(电子)",
+                                "position": [
+                                    663,
+                                    454,
+                                    1355,
+                                    454,
+                                    1354,
+                                    508,
+                                    663,
+                                    507
+                                ],
+                                "key": "title",
+                                "description": "标题"
+                            },
+                            {
+                                "value": "00000000",
+                                "position": [
+                                    375,
+                                    583,
+                                    476,
+                                    582,
+                                    476,
+                                    603,
+                                    376,
+                                    604
+                                ],
+                                "key": "invoice_code",
+                                "description": "票据代码"
+                            },
+                            {
+                                "value": "0000000000",
+                                "position": [
+                                    1376,
+                                    582,
+                                    1502,
+                                    583,
+                                    1502,
+                                    605,
+                                    1375,
+                                    604
+                                ],
+                                "key": "invoice_number",
+                                "description": "票据号码"
+                            },
+                            {
+                                "value": "370404********0000",
+                                "position": [
+                                    546,
+                                    617,
+                                    769,
+                                    617,
+                                    768,
+                                    639,
+                                    545,
+                                    639
+                                ],
+                                "key": "payer_uniform_social_credit_code",
+                                "description": "交款人统一社会信用代码"
+                            },
+                            {
+                                "value": "合小合",
+                                "position": [
+                                    357,
+                                    650,
+                                    431,
+                                    649,
+                                    431,
+                                    679,
+                                    357,
+                                    680
+                                ],
+                                "key": "payer",
+                                "description": "交款人"
+                            },
+                            {
+                                "value": "abcdef",
+                                "position": [
+                                    1377,
+                                    617,
+                                    1454,
+                                    617,
+                                    1453,
+                                    639,
+                                    1377,
+                                    639
+                                ],
+                                "key": "correct_code",
+                                "description": "校验码"
+                            },
+                            {
+                                "value": "2024-01-02",
+                                "position": [
+                                    1378,
+                                    651,
+                                    1500,
+                                    650,
+                                    1500,
+                                    672,
+                                    1378,
+                                    673
+                                ],
+                                "key": "date",
+                                "description": "开票日期"
+                            },
+                            {
+                                "value": "贰佰肆拾玖元叁角捌分",
+                                "position": [
+                                    463,
+                                    1098,
+                                    708,
+                                    1100,
+                                    707,
+                                    1127,
+                                    462,
+                                    1125
+                                ],
+                                "key": "amount_char",
+                                "description": "合计大写"
+                            },
+                            {
+                                "value": "249.38",
+                                "position": [
+                                    1189,
+                                    1100,
+                                    1266,
+                                    1100,
+                                    1266,
+                                    1122,
+                                    1189,
+                                    1122
+                                ],
+                                "key": "amount_digital",
+                                "description": "合计小写"
+                            },
+                            {
+                                "value": "首都医科大学附属北京世纪坛医院",
+                                "position": [
+                                    459,
+                                    1422,
+                                    823,
+                                    1420,
+                                    823,
+                                    1455,
+                                    459,
+                                    1457
+                                ],
+                                "key": "cashier_company",
+                                "description": "收款单位"
+                            },
+                            {
+                                "value": "000000",
+                                "position": [
+                                    1208,
+                                    1428,
+                                    1283,
+                                    1427,
+                                    1283,
+                                    1447,
+                                    1208,
+                                    1448
+                                ],
+                                "key": "reviewer",
+                                "description": "复核人"
+                            },
+                            {
+                                "value": "000000",
+                                "position": [
+                                    1524,
+                                    1428,
+                                    1601,
+                                    1427,
+                                    1601,
+                                    1448,
+                                    1524,
+                                    1449
+                                ],
+                                "key": "cashier",
+                                "description": "收款人"
+                            },
+                            {
+                                "value": "sjtmz00000000000000000000",
+                                "position": [
+                                    451,
+                                    1144,
+                                    753,
+                                    1142,
+                                    753,
+                                    1165,
+                                    451,
+                                    1167
+                                ],
+                                "key": "workflow_number",
+                                "description": "业务流水号"
+                            },
+                            {
+                                "value": "0000000000",
+                                "position": [
+                                    1147,
+                                    1146,
+                                    1269,
+                                    1145,
+                                    1269,
+                                    1165,
+                                    1147,
+                                    1166
+                                ],
+                                "key": "patient_number",
+                                "description": "门诊号"
+                            },
+                            {
+                                "value": "20240102",
+                                "position": [
+                                    1543,
+                                    1143,
+                                    1641,
+                                    1144,
+                                    1640,
+                                    1166,
+                                    1542,
+                                    1166
+                                ],
+                                "key": "visit_date",
+                                "description": "就诊时间/就诊日期"
+                            },
+                            {
+                                "value": "综合医院",
+                                "position": [
+                                    476,
+                                    1182,
+                                    568,
+                                    1182,
+                                    568,
+                                    1206,
+                                    476,
+                                    1206
+                                ],
+                                "key": "medical_institution_type",
+                                "description": "医疗机构类型"
+                            },
+                            {
+                                "value": "医疗保险(在职)",
+                                "position": [
+                                    763,
+                                    1182,
+                                    936,
+                                    1181,
+                                    936,
+                                    1206,
+                                    763,
+                                    1207
+                                ],
+                                "key": "medical_insurance_type",
+                                "description": "医保类型"
+                            },
+                            {
+                                "value": "00000000000S",
+                                "position": [
+                                    1175,
+                                    1185,
+                                    1324,
+                                    1184,
+                                    1324,
+                                    1204,
+                                    1175,
+                                    1205
+                                ],
+                                "key": "medical_insurance_number",
+                                "description": "医保编号"
+                            },
+                            {
+                                "value": "女",
+                                "position": [
+                                    1500,
+                                    1181,
+                                    1523,
+                                    1182,
+                                    1521,
+                                    1207,
+                                    1499,
+                                    1207
+                                ],
+                                "key": "sex",
+                                "description": "性别"
+                            },
+                            {
+                                "value": "0.00",
+                                "position": [
+                                    522,
+                                    1217,
+                                    573,
+                                    1219,
+                                    573,
+                                    1242,
+                                    522,
+                                    1240
+                                ],
+                                "key": "medical_pooling_payment",
+                                "description": "医保统筹基金支付"
+                            },
+                            {
+                                "value": "0.00",
+                                "position": [
+                                    765,
+                                    1218,
+                                    819,
+                                    1218,
+                                    819,
+                                    1239,
+                                    765,
+                                    1239
+                                ],
+                                "key": "other_payment",
+                                "description": "其他支付"
+                            },
+                            {
+                                "value": "0.00",
+                                "position": [
+                                    1222,
+                                    1219,
+                                    1274,
+                                    1219,
+                                    1274,
+                                    1239,
+                                    1222,
+                                    1239
+                                ],
+                                "key": "personal_account_payment",
+                                "description": "个人账户支付"
+                            },
+                            {
+                                "value": "249.38",
+                                "position": [
+                                    1594,
+                                    1217,
+                                    1665,
+                                    1217,
+                                    1665,
+                                    1239,
+                                    1594,
+                                    1239
+                                ],
+                                "key": "cash_payment",
+                                "description": "个人现金支付"
+                            },
+                            {
+                                "value": "0.00",
+                                "position": [
+                                    429,
+                                    1257,
+                                    480,
+                                    1258,
+                                    479,
+                                    1279,
+                                    429,
+                                    1279
+                                ],
+                                "key": "individual_payment",
+                                "description": "个人自付"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "personal_payment",
+                                "description": "个人自负"
+                            },
+                            {
+                                "value": "249.38",
+                                "position": [
+                                    766,
+                                    1257,
+                                    842,
+                                    1257,
+                                    842,
+                                    1278,
+                                    766,
+                                    1278
+                                ],
+                                "key": "self_payment",
+                                "description": "个人自费"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "medical_record_number",
+                                "description": "病历号"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "hospitalized_number",
+                                "description": "住院号"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "hospitalization_department",
+                                "description": "住院科别"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "hospitalization_date",
+                                "description": "住院时间"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "advance_payment",
+                                "description": "预缴金额"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "supplementary_payment",
+                                "description": "补缴金额"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "refund_amount",
+                                "description": "退费金额"
+                            }
+                        ],
+                        "kind": "medical_treatment",
+                        "product_list": [
+                            [
+                                {
+                                    "value": "249.38",
+                                    "position": [
+                                        830,
+                                        743,
+                                        908,
+                                        743,
+                                        907,
+                                        765,
+                                        829,
+                                        764
+                                    ],
+                                    "key": "amount_table",
+                                    "description": "表格金额"
+                                },
+                                {
+                                    "value": "1",
+                                    "position": [
+                                        638,
+                                        742,
+                                        653,
+                                        742,
+                                        653,
+                                        779,
+                                        639,
+                                        779
+                                    ],
+                                    "key": "number_table",
+                                    "description": "表格数量"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "project_code_table",
+                                    "description": "表格项目编码"
+                                },
+                                {
+                                    "value": "西药费",
+                                    "position": [
+                                        275,
+                                        741,
+                                        347,
+                                        742,
+                                        346,
+                                        768,
+                                        274,
+                                        767
+                                    ],
+                                    "key": "project_name_table",
+                                    "description": "表格项目名称"
+                                },
+                                {
+                                    "value": "项",
+                                    "position": [
+                                        712,
+                                        741,
+                                        745,
+                                        740,
+                                        745,
+                                        771,
+                                        712,
+                                        772
+                                    ],
+                                    "key": "unit_table",
+                                    "description": "表格单位"
+                                }
+                            ],
+                            [
+                                {
+                                    "value": "196.00",
+                                    "position": [
+                                        832,
+                                        781,
+                                        906,
+                                        780,
+                                        907,
+                                        802,
+                                        832,
+                                        803
+                                    ],
+                                    "key": "amount_table",
+                                    "description": "表格金额"
+                                },
+                                {
+                                    "value": "2.0000",
+                                    "position": [
+                                        608,
+                                        782,
+                                        685,
+                                        782,
+                                        685,
+                                        802,
+                                        608,
+                                        802
+                                    ],
+                                    "key": "number_table",
+                                    "description": "表格数量"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "project_code_table",
+                                    "description": "表格项目编码"
+                                },
+                                {
+                                    "value": "西他沙星片",
+                                    "position": [
+                                        275,
+                                        779,
+                                        394,
+                                        778,
+                                        394,
+                                        803,
+                                        275,
+                                        804
+                                    ],
+                                    "key": "project_name_table",
+                                    "description": "表格项目名称"
+                                },
+                                {
+                                    "value": "盒",
+                                    "position": [
+                                        713,
+                                        778,
+                                        745,
+                                        777,
+                                        745,
+                                        808,
+                                        713,
+                                        809
+                                    ],
+                                    "key": "unit_table",
+                                    "description": "表格单位"
+                                }
+                            ],
+                            [
+                                {
+                                    "value": "5.39",
+                                    "position": [
+                                        1602,
+                                        780,
+                                        1652,
+                                        781,
+                                        1651,
+                                        804,
+                                        1601,
+                                        802
+                                    ],
+                                    "key": "amount_table",
+                                    "description": "表格金额"
+                                },
+                                {
+                                    "value": "1.0000",
+                                    "position": [
+                                        1360,
+                                        782,
+                                        1435,
+                                        782,
+                                        1435,
+                                        802,
+                                        1360,
+                                        802
+                                    ],
+                                    "key": "number_table",
+                                    "description": "表格数量"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "project_code_table",
+                                    "description": "表格项目编码"
+                                },
+                                {
+                                    "value": "布洛芬缓释胶囊",
+                                    "position": [
+                                        1027,
+                                        778,
+                                        1194,
+                                        778,
+                                        1193,
+                                        805,
+                                        1026,
+                                        804
+                                    ],
+                                    "key": "project_name_table",
+                                    "description": "表格项目名称"
+                                },
+                                {
+                                    "value": "盒",
+                                    "position": [
+                                        1458,
+                                        777,
+                                        1491,
+                                        777,
+                                        1491,
+                                        808,
+                                        1458,
+                                        808
+                                    ],
+                                    "key": "unit_table",
+                                    "description": "表格单位"
+                                }
+                            ],
+                            [
+                                {
+                                    "value": "47.99",
+                                    "position": [
+                                        844,
+                                        821,
+                                        906,
+                                        820,
+                                        906,
+                                        841,
+                                        844,
+                                        842
+                                    ],
+                                    "key": "amount_table",
+                                    "description": "表格金额"
+                                },
+                                {
+                                    "value": "1.0000",
+                                    "position": [
+                                        611,
+                                        820,
+                                        684,
+                                        820,
+                                        684,
+                                        840,
+                                        611,
+                                        840
+                                    ],
+                                    "key": "number_table",
+                                    "description": "表格数量"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "project_code_table",
+                                    "description": "表格项目编码"
+                                },
+                                {
+                                    "value": "利可君片",
+                                    "position": [
+                                        276,
+                                        819,
+                                        371,
+                                        818,
+                                        371,
+                                        842,
+                                        277,
+                                        843
+                                    ],
+                                    "key": "project_name_table",
+                                    "description": "表格项目名称"
+                                },
+                                {
+                                    "value": "盒",
+                                    "position": [
+                                        712,
+                                        817,
+                                        745,
+                                        816,
+                                        746,
+                                        847,
+                                        713,
+                                        848
+                                    ],
+                                    "key": "unit_table",
+                                    "description": "表格单位"
+                                }
+                            ]
+                        ],
+                        "position": [
+                            164,
+                            395,
+                            1874,
+                            383,
+                            1882,
+                            1544,
+                            175,
+                            1556
+                        ],
+                        "kind_description": "医疗",
+                        "type": "electronic_medical_invoice"
+                    },
+                    {
+                        "stamp_list": [],
+                        "image_angle": 0,
+                        "type_description": "火车票",
+                        "rotated_image_width": 839,
+                        "qr_code_list": [
+                            [
+                                {
+                                    "value": "https://www.textin.com/",
+                                    "position": [
+                                        776,
+                                        2325,
+                                        942,
+                                        2326,
+                                        942,
+                                        2492,
+                                        776,
+                                        2490
+                                    ],
+                                    "key": "qr_code_info",
+                                    "description": "二维码内容"
+                                }
+                            ]
+                        ],
+                        "rotated_image_height": 528,
+                        "kind": "traffic",
+                        "item_list": [
+                            {
+                                "value": "R093443",
+                                "position": [
+                                    213,
+                                    2058,
+                                    393,
+                                    2058,
+                                    393,
+                                    2097,
+                                    213,
+                                    2097
+                                ],
+                                "key": "ticket_number",
+                                "description": "火车票红色编码"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "boarding_gate",
+                                "description": "检票口"
+                            },
+                            {
+                                "value": "银川站",
+                                "position": [
+                                    213,
+                                    2058,
+                                    393,
+                                    2058,
+                                    393,
+                                    2097,
+                                    213,
+                                    2097
+                                ],
+                                "key": "departure_station",
+                                "description": "出发地"
+                            },
+                            {
+                                "value": "K1178",
+                                "position": [
+                                    501,
+                                    2105,
+                                    642,
+                                    2105,
+                                    642,
+                                    2147,
+                                    502,
+                                    2146
+                                ],
+                                "key": "train_number",
+                                "description": "车次号"
+                            },
+                            {
+                                "value": "北京站",
+                                "position": [
+                                    683,
+                                    2097,
+                                    847,
+                                    2094,
+                                    848,
+                                    2148,
+                                    685,
+                                    2151
+                                ],
+                                "key": "arrival_station",
+                                "description": "目的地"
+                            },
+                            {
+                                "value": "2019-10-06 16:05",
+                                "position": [
+                                    215,
+                                    2182,
+                                    601,
+                                    2183,
+                                    601,
+                                    2220,
+                                    215,
+                                    2219
+                                ],
+                                "key": "departure_date",
+                                "description": "乘车时间"
+                            },
+                            {
+                                "value": "14车015号上铺",
+                                "position": [
+                                    671,
+                                    2184,
+                                    916,
+                                    2184,
+                                    917,
+                                    2224,
+                                    671,
+                                    2223
+                                ],
+                                "key": "seat_number",
+                                "description": "座位号"
+                            },
+                            {
+                                "value": "280.5",
+                                "position": [
+                                    253,
+                                    2230,
+                                    342,
+                                    2230,
+                                    343,
+                                    2259,
+                                    253,
+                                    2260
+                                ],
+                                "key": "price",
+                                "description": "价格"
+                            },
+                            {
+                                "value": "新空调硬卧",
+                                "position": [
+                                    683,
+                                    2226,
+                                    852,
+                                    2227,
+                                    852,
+                                    2263,
+                                    683,
+                                    2263
+                                ],
+                                "key": "class",
+                                "description": "座位类别"
+                            },
+                            {
+                                "value": "3424231998****0000",
+                                "position": [
+                                    214,
+                                    2348,
+                                    667,
+                                    2349,
+                                    667,
+                                    2389,
+                                    214,
+                                    2387
+                                ],
+                                "key": "passenger_id",
+                                "description": "乘客身份证"
+                            },
+                            {
+                                "value": "合小合",
+                                "position": [
+                                    214,
+                                    2348,
+                                    667,
+                                    2349,
+                                    667,
+                                    2389,
+                                    214,
+                                    2387
+                                ],
+                                "key": "passenger_name",
+                                "description": "乘客名称"
+                            },
+                            {
+                                "value": "14846301011007R093443",
+                                "position": [
+                                    216,
+                                    2480,
+                                    644,
+                                    2482,
+                                    644,
+                                    2518,
+                                    216,
+                                    2515
+                                ],
+                                "key": "ticket_id",
+                                "description": "火车票ID"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "refund",
+                                "description": "退票费"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "rebook",
+                                "description": "改签费"
+                            },
+                            {
+                                "value": "2019-10-06",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "dateonly_of_departure_date",
+                                "description": "发车日期"
+                            },
+                            {
+                                "value": "16:05",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "timeonly_of_departure_date",
+                                "description": "发车当日时间"
+                            }
+                        ],
+                        "position": [
+                            163,
+                            2032,
+                            986,
+                            2031,
+                            988,
+                            2546,
+                            167,
+                            2540
+                        ],
+                        "kind_description": "交通",
+                        "type": "train_ticket"
+                    },
+                    {
+                        "stamp_list": [],
+                        "image_angle": 0,
+                        "type_description": "火车票",
+                        "rotated_image_width": 835,
+                        "qr_code_list": [
+                            [
+                                {
+                                    "value": "https://www.textin.com/",
+                                    "position": [
+                                        1667,
+                                        2324,
+                                        1835,
+                                        2326,
+                                        1835,
+                                        2492,
+                                        1667,
+                                        2490
+                                    ],
+                                    "key": "qr_code_info",
+                                    "description": "二维码内容"
+                                }
+                            ]
+                        ],
+                        "rotated_image_height": 529,
+                        "kind": "traffic",
+                        "item_list": [
+                            {
+                                "value": "R093443",
+                                "position": [
+                                    1106,
+                                    2059,
+                                    1286,
+                                    2059,
+                                    1286,
+                                    2096,
+                                    1106,
+                                    2096
+                                ],
+                                "key": "ticket_number",
+                                "description": "火车票红色编码"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "boarding_gate",
+                                "description": "检票口"
+                            },
+                            {
+                                "value": "银川站",
+                                "position": [
+                                    1106,
+                                    2059,
+                                    1286,
+                                    2059,
+                                    1286,
+                                    2096,
+                                    1106,
+                                    2096
+                                ],
+                                "key": "departure_station",
+                                "description": "出发地"
+                            },
+                            {
+                                "value": "K1178",
+                                "position": [
+                                    1394,
+                                    2104,
+                                    1535,
+                                    2106,
+                                    1535,
+                                    2147,
+                                    1393,
+                                    2146
+                                ],
+                                "key": "train_number",
+                                "description": "车次号"
+                            },
+                            {
+                                "value": "北京站",
+                                "position": [
+                                    1576,
+                                    2098,
+                                    1739,
+                                    2094,
+                                    1740,
+                                    2147,
+                                    1578,
+                                    2150
+                                ],
+                                "key": "arrival_station",
+                                "description": "目的地"
+                            },
+                            {
+                                "value": "2019-10-06 16:05",
+                                "position": [
+                                    1108,
+                                    2183,
+                                    1493,
+                                    2183,
+                                    1493,
+                                    2220,
+                                    1108,
+                                    2220
+                                ],
+                                "key": "departure_date",
+                                "description": "乘车时间"
+                            },
+                            {
+                                "value": "14车015号上铺",
+                                "position": [
+                                    1563,
+                                    2184,
+                                    1807,
+                                    2185,
+                                    1808,
+                                    2224,
+                                    1563,
+                                    2223
+                                ],
+                                "key": "seat_number",
+                                "description": "座位号"
+                            },
+                            {
+                                "value": "280.5",
+                                "position": [
+                                    1145,
+                                    2230,
+                                    1234,
+                                    2230,
+                                    1234,
+                                    2259,
+                                    1145,
+                                    2259
+                                ],
+                                "key": "price",
+                                "description": "价格"
+                            },
+                            {
+                                "value": "新空调硬卧",
+                                "position": [
+                                    1576,
+                                    2227,
+                                    1743,
+                                    2227,
+                                    1743,
+                                    2263,
+                                    1576,
+                                    2263
+                                ],
+                                "key": "class",
+                                "description": "座位类别"
+                            },
+                            {
+                                "value": "3424231998****0000",
+                                "position": [
+                                    1105,
+                                    2348,
+                                    1558,
+                                    2349,
+                                    1558,
+                                    2388,
+                                    1105,
+                                    2387
+                                ],
+                                "key": "passenger_id",
+                                "description": "乘客身份证"
+                            },
+                            {
+                                "value": "合小合",
+                                "position": [
+                                    1105,
+                                    2348,
+                                    1558,
+                                    2349,
+                                    1558,
+                                    2388,
+                                    1105,
+                                    2387
+                                ],
+                                "key": "passenger_name",
+                                "description": "乘客名称"
+                            },
+                            {
+                                "value": "14846301011007R093443",
+                                "position": [
+                                    1108,
+                                    2480,
+                                    1537,
+                                    2482,
+                                    1537,
+                                    2520,
+                                    1108,
+                                    2518
+                                ],
+                                "key": "ticket_id",
+                                "description": "火车票ID"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "refund",
+                                "description": "退票费"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "rebook",
+                                "description": "改签费"
+                            },
+                            {
+                                "value": "2019-10-06",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "dateonly_of_departure_date",
+                                "description": "发车日期"
+                            },
+                            {
+                                "value": "16:05",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "timeonly_of_departure_date",
+                                "description": "发车当日时间"
+                            }
+                        ],
+                        "position": [
+                            1057,
+                            2033,
+                            1875,
+                            2033,
+                            1879,
+                            2546,
+                            1058,
+                            2542
+                        ],
+                        "kind_description": "交通",
+                        "type": "train_ticket"
+                    }
+                ],
+                "height": 2885,
+                "width": 2041
+            }
+        },
+        {
+            "page_number": 1,
+            "duration": 2142,
+            "ppi": 247,
+            "result": {
+                "object_list": [
+                    {
+                        "stamp_list": [],
+                        "image_angle": 0,
+                        "type_description": "网约车行程单",
+                        "rotated_image_width": 2022,
+                        "qr_code_list": [],
+                        "rotated_image_height": 2884,
+                        "item_list": [
+                            {
+                                "value": "第三方网约车服务提供方蓝道出行-行程单",
+                                "position": [
+                                    273,
+                                    458,
+                                    1750,
+                                    458,
+                                    1750,
+                                    534,
+                                    273,
+                                    534
+                                ],
+                                "key": "title",
+                                "description": "标题"
+                            },
+                            {
+                                "value": "2021-05-18",
+                                "position": [
+                                    283,
+                                    576,
+                                    430,
+                                    576,
+                                    430,
+                                    600,
+                                    283,
+                                    600
+                                ],
+                                "key": "application_date",
+                                "description": "申请日期"
+                            },
+                            {
+                                "value": "2021-05-13至2021-05-13",
+                                "position": [
+                                    904,
+                                    576,
+                                    1246,
+                                    576,
+                                    1247,
+                                    602,
+                                    904,
+                                    602
+                                ],
+                                "key": "trip_date",
+                                "description": "行程日期"
+                            },
+                            {
+                                "value": "1笔行程",
+                                "position": [
+                                    756,
+                                    630,
+                                    855,
+                                    630,
+                                    855,
+                                    659,
+                                    756,
+                                    659
+                                ],
+                                "key": "trip_number",
+                                "description": "合计行程数量"
+                            },
+                            {
+                                "value": "19.54元",
+                                "position": [
+                                    953,
+                                    631,
+                                    1051,
+                                    631,
+                                    1051,
+                                    659,
+                                    953,
+                                    659
+                                ],
+                                "key": "amount_total",
+                                "description": "合计金额"
+                            },
+                            {
+                                "value": "13700000000",
+                                "position": [
+                                    349,
+                                    632,
+                                    507,
+                                    632,
+                                    507,
+                                    656,
+                                    349,
+                                    656
+                                ],
+                                "key": "phone_number",
+                                "description": "行程人手机号/预定人手机号"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "other_expenses_total",
+                                "description": "其他费用合计"
+                            },
+                            {
+                                "value": "2021-05-13",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "startdate_of_trip_date",
+                                "description": "行程开始日期"
+                            },
+                            {
+                                "value": "2021-05-13",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "enddate_of_trip_date",
+                                "description": "行程结束日期"
+                            }
+                        ],
+                        "kind": "traffic",
+                        "product_list": [
+                            [
+                                {
+                                    "value": "蓝道出行",
+                                    "position": [
+                                        243,
+                                        874,
+                                        339,
+                                        874,
+                                        339,
+                                        899,
+                                        243,
+                                        899
+                                    ],
+                                    "key": "car_type_table",
+                                    "description": "表格车型"
+                                },
+                                {
+                                    "value": "南昌市",
+                                    "position": [
+                                        606,
+                                        874,
+                                        679,
+                                        874,
+                                        679,
+                                        900,
+                                        606,
+                                        900
+                                    ],
+                                    "key": "city_table",
+                                    "description": "表格城市"
+                                },
+                                {
+                                    "value": "汉庭酒店(南昌佳海产业园店)",
+                                    "position": [
+                                        765,
+                                        874,
+                                        1070,
+                                        874,
+                                        1070,
+                                        900,
+                                        765,
+                                        900
+                                    ],
+                                    "key": "departure_point_table",
+                                    "description": "表格起点"
+                                },
+                                {
+                                    "value": "蒋巷|果中果",
+                                    "position": [
+                                        1268,
+                                        874,
+                                        1393,
+                                        874,
+                                        1393,
+                                        903,
+                                        1268,
+                                        903
+                                    ],
+                                    "key": "destination_table",
+                                    "description": "表格终点"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "driving_time_table",
+                                    "description": "表格行驶时长"
+                                },
+                                {
+                                    "value": "19.54",
+                                    "position": [
+                                        1709,
+                                        876,
+                                        1771,
+                                        876,
+                                        1771,
+                                        895,
+                                        1709,
+                                        895
+                                    ],
+                                    "key": "journey_amount_table",
+                                    "description": "表格行程金额"
+                                },
+                                {
+                                    "value": "6.4",
+                                    "position": [
+                                        1586,
+                                        876,
+                                        1621,
+                                        876,
+                                        1621,
+                                        895,
+                                        1586,
+                                        895
+                                    ],
+                                    "key": "mileage_table",
+                                    "description": "表格行程里程"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "notes_table",
+                                    "description": "表格备注"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "order_no_table",
+                                    "description": "表格订单号"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "order_time_table",
+                                    "description": "表格下单时间"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "other_expenses_table",
+                                    "description": "表格其他费用"
+                                },
+                                {
+                                    "value": "05-13 08:41 周四",
+                                    "position": [
+                                        364,
+                                        874,
+                                        557,
+                                        874,
+                                        557,
+                                        899,
+                                        364,
+                                        899
+                                    ],
+                                    "key": "pick_up_time_table",
+                                    "description": "表格上车时间"
+                                },
+                                {
+                                    "value": "1",
+                                    "position": [
+                                        176,
+                                        871,
+                                        195,
+                                        871,
+                                        195,
+                                        915,
+                                        176,
+                                        915
+                                    ],
+                                    "key": "serial_no_table",
+                                    "description": "表格序号"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "service_type_table",
+                                    "description": "表格订单/服务类型"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "supplier_table",
+                                    "description": "表格服务商"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "using_time_table",
+                                    "description": "表格用车时间"
+                                }
+                            ]
+                        ],
+                        "position": [
+                            1,
+                            5,
+                            2012,
+                            0,
+                            2034,
+                            2879,
+                            11,
+                            2879
+                        ],
+                        "kind_description": "交通",
+                        "type": "ride_receipt"
+                    }
+                ],
+                "height": 2885,
+                "width": 2041
+            }
+        },
+        {
+            "page_number": 2,
+            "duration": 3034,
+            "ppi": 247,
+            "result": {
+                "object_list": [
+                    {
+                        "stamp_list": [
+                            [
+                                {
+                                    "value": "全国统一发票监制章    国家税务总局    广东省税务局    ",
+                                    "position": [
+                                        888,
+                                        304,
+                                        1146,
+                                        303,
+                                        1147,
+                                        473,
+                                        890,
+                                        475
+                                    ],
+                                    "key": "stamp_info",
+                                    "description": "印章内容"
+                                },
+                                {
+                                    "value": "全国统一发票监制章",
+                                    "position": [
+                                        888,
+                                        304,
+                                        1146,
+                                        303,
+                                        1147,
+                                        473,
+                                        890,
+                                        475
+                                    ],
+                                    "key": "stamp_type",
+                                    "description": "印章类型"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        888,
+                                        304,
+                                        1146,
+                                        303,
+                                        1147,
+                                        473,
+                                        890,
+                                        475
+                                    ],
+                                    "key": "stamp_invoice_seller_id",
+                                    "description": "印章销售方纳税人识别号"
+                                }
+                            ]
+                        ],
+                        "image_angle": 0,
+                        "type_description": "数电票(增值税专用发票/普通发票)",
+                        "rotated_image_width": 1787,
+                        "qr_code_list": [
+                            [
+                                {
+                                    "value": "https://www.textin.com/",
+                                    "position": [
+                                        194,
+                                        281,
+                                        389,
+                                        281,
+                                        390,
+                                        476,
+                                        195,
+                                        477
+                                    ],
+                                    "key": "qr_code_info",
+                                    "description": "二维码内容"
+                                }
+                            ]
+                        ],
+                        "transport_list": [],
+                        "rotated_image_height": 1166,
+                        "item_list": [
+                            {
+                                "value": "电子发票(增值税专用发票)",
+                                "position": [
+                                    632,
+                                    308,
+                                    1353,
+                                    302,
+                                    1354,
+                                    366,
+                                    633,
+                                    373
+                                ],
+                                "key": "title",
+                                "description": "标题"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "vat_invoice_service_type",
+                                "description": "全电票标签"
+                            },
+                            {
+                                "value": "00000000000000000000",
+                                "position": [
+                                    1558,
+                                    332,
+                                    1830,
+                                    332,
+                                    1830,
+                                    351,
+                                    1558,
+                                    352
+                                ],
+                                "key": "vat_invoice_number",
+                                "description": "发票号码"
+                            },
+                            {
+                                "value": "2022年02月18日",
+                                "position": [
+                                    1563,
+                                    380,
+                                    1747,
+                                    380,
+                                    1747,
+                                    406,
+                                    1563,
+                                    406
+                                ],
+                                "key": "vat_invoice_issue_date",
+                                "description": "开票日期"
+                            },
+                            {
+                                "value": "上海合合信息科技股份有限公司",
+                                "position": [
+                                    322,
+                                    560,
+                                    681,
+                                    557,
+                                    682,
+                                    585,
+                                    323,
+                                    588
+                                ],
+                                "key": "vat_invoice_payer_name",
+                                "description": "购买方名称"
+                            },
+                            {
+                                "value": "000000000000000000",
+                                "position": [
+                                    600,
+                                    609,
+                                    979,
+                                    609,
+                                    978,
+                                    635,
+                                    599,
+                                    635
+                                ],
+                                "key": "vat_invoice_rate_payer_id",
+                                "description": "购买方纳税人识别号"
+                            },
+                            {
+                                "value": "上海合合信息科技股份有限公司",
+                                "position": [
+                                    1151,
+                                    555,
+                                    1510,
+                                    552,
+                                    1511,
+                                    580,
+                                    1152,
+                                    583
+                                ],
+                                "key": "vat_invoice_seller_name",
+                                "description": "销售方名称"
+                            },
+                            {
+                                "value": "000000000000000000",
+                                "position": [
+                                    1435,
+                                    605,
+                                    1812,
+                                    606,
+                                    1811,
+                                    632,
+                                    1434,
+                                    633
+                                ],
+                                "key": "vat_invoice_seller_id",
+                                "description": "销售方纳税人识别号"
+                            },
+                            {
+                                "value": "¥9174.31",
+                                "position": [
+                                    1385,
+                                    1001,
+                                    1497,
+                                    1001,
+                                    1496,
+                                    1024,
+                                    1384,
+                                    1023
+                                ],
+                                "key": "vat_invoice_total",
+                                "description": "金额合计"
+                            },
+                            {
+                                "value": "¥825.69",
+                                "position": [
+                                    1748,
+                                    1001,
+                                    1846,
+                                    1001,
+                                    1846,
+                                    1022,
+                                    1748,
+                                    1023
+                                ],
+                                "key": "vat_invoice_tax_total",
+                                "description": "税额合计"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "vat_invoice_subtotal",
+                                "description": "金额小计"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "vat_invoice_tax_subtotal",
+                                "description": "税额小计"
+                            },
+                            {
+                                "value": "壹万圆整",
+                                "position": [
+                                    672,
+                                    1052,
+                                    774,
+                                    1051,
+                                    774,
+                                    1076,
+                                    672,
+                                    1077
+                                ],
+                                "key": "vat_invoice_total_cover_tax",
+                                "description": "价税合计大写"
+                            },
+                            {
+                                "value": "¥10000.00",
+                                "position": [
+                                    1440,
+                                    1053,
+                                    1589,
+                                    1052,
+                                    1589,
+                                    1076,
+                                    1440,
+                                    1077
+                                ],
+                                "key": "vat_invoice_total_cover_tax_digits",
+                                "description": "价税合计小写"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "vat_invoice_total_note",
+                                "description": "备注"
+                            },
+                            {
+                                "value": "合小合",
+                                "position": [
+                                    413,
+                                    1310,
+                                    494,
+                                    1310,
+                                    494,
+                                    1336,
+                                    413,
+                                    1337
+                                ],
+                                "key": "vat_invoice_drawer",
+                                "description": "开票人"
+                            },
+                            {
+                                "value": "电子发票(增值税专用发票)",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "invoice_type",
+                                "description": "发票类型"
+                            },
+                            {
+                                "value": "True",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "exist_manufacture_supervising_seal",
+                                "description": "监制章存在性判断"
+                            }
+                        ],
+                        "kind": "other",
+                        "product_list": [
+                            [
+                                {
+                                    "value": "9174.31",
+                                    "position": [
+                                        1414,
+                                        715,
+                                        1504,
+                                        714,
+                                        1504,
+                                        735,
+                                        1414,
+                                        736
+                                    ],
+                                    "key": "vat_invoice_price",
+                                    "description": "金额"
+                                },
+                                {
+                                    "value": "*供热*蒸汽",
+                                    "position": [
+                                        200,
+                                        714,
+                                        330,
+                                        714,
+                                        330,
+                                        739,
+                                        200,
+                                        739
+                                    ],
+                                    "key": "vat_invoice_product_name",
+                                    "description": "项目名称"
+                                },
+                                {
+                                    "value": "28.57142857",
+                                    "position": [
+                                        944,
+                                        714,
+                                        1090,
+                                        713,
+                                        1090,
+                                        735,
+                                        944,
+                                        736
+                                    ],
+                                    "key": "vat_invoice_quantity",
+                                    "description": "数量"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "vat_invoice_specification",
+                                    "description": "规格型号"
+                                },
+                                {
+                                    "value": "825.69",
+                                    "position": [
+                                        1771,
+                                        713,
+                                        1851,
+                                        713,
+                                        1851,
+                                        734,
+                                        1771,
+                                        734
+                                    ],
+                                    "key": "vat_invoice_tax",
+                                    "description": "税额"
+                                },
+                                {
+                                    "value": "9%",
+                                    "position": [
+                                        1659,
+                                        712,
+                                        1688,
+                                        712,
+                                        1688,
+                                        732,
+                                        1659,
+                                        732
+                                    ],
+                                    "key": "vat_invoice_tax_rate",
+                                    "description": "税率/征收率"
+                                },
+                                {
+                                    "value": "吨",
+                                    "position": [
+                                        867,
+                                        710,
+                                        902,
+                                        710,
+                                        902,
+                                        743,
+                                        867,
+                                        743
+                                    ],
+                                    "key": "vat_invoice_unit",
+                                    "description": "单位"
+                                },
+                                {
+                                    "value": "321.10091743",
+                                    "position": [
+                                        1104,
+                                        714,
+                                        1256,
+                                        712,
+                                        1256,
+                                        782,
+                                        1105,
+                                        783
+                                    ],
+                                    "key": "vat_invoice_unit_price",
+                                    "description": "单价"
+                                }
+                            ]
+                        ],
+                        "position": [
+                            144,
+                            246,
+                            1887,
+                            245,
+                            1892,
+                            1374,
+                            147,
+                            1392
+                        ],
+                        "kind_description": "其他",
+                        "type": "vat_digital_invoice"
+                    },
+                    {
+                        "stamp_list": [
+                            [
+                                {
+                                    "value": "全国统一发票监制章    国家税务总局    上海市税务局    ",
+                                    "position": [
+                                        857,
+                                        1698,
+                                        1090,
+                                        1697,
+                                        1091,
+                                        1855,
+                                        859,
+                                        1856
+                                    ],
+                                    "key": "stamp_info",
+                                    "description": "印章内容"
+                                },
+                                {
+                                    "value": "全国统一发票监制章",
+                                    "position": [
+                                        857,
+                                        1698,
+                                        1090,
+                                        1697,
+                                        1091,
+                                        1855,
+                                        859,
+                                        1856
+                                    ],
+                                    "key": "stamp_type",
+                                    "description": "印章类型"
+                                },
+                                {
+                                    "value": "",
+                                    "position": [
+                                        857,
+                                        1698,
+                                        1090,
+                                        1697,
+                                        1091,
+                                        1855,
+                                        859,
+                                        1856
+                                    ],
+                                    "key": "stamp_invoice_seller_id",
+                                    "description": "印章销售方纳税人识别号"
+                                }
+                            ]
+                        ],
+                        "image_angle": 0,
+                        "type_description": "数电票(航空运输电子客票行程单)",
+                        "rotated_image_width": 1717,
+                        "flight_data_list": [
+                            [
+                                {
+                                    "value": "上海-浦东T1",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "from",
+                                    "description": "出发站"
+                                },
+                                {
+                                    "value": "成都-双流T2",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "to",
+                                    "description": "到达站"
+                                },
+                                {
+                                    "value": "东航",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "carrier",
+                                    "description": "承运人"
+                                },
+                                {
+                                    "value": "MU5405",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "flight_number",
+                                    "description": "航班号"
+                                },
+                                {
+                                    "value": "G",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "seat_class",
+                                    "description": "座位等级"
+                                },
+                                {
+                                    "value": "2023-11-30",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "date",
+                                    "description": "航班日期"
+                                },
+                                {
+                                    "value": "09:20",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "time",
+                                    "description": "航班时间"
+                                },
+                                {
+                                    "value": "D",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "fare_basis",
+                                    "description": "客票级别/客票类别"
+                                },
+                                {
+                                    "value": "2023-11-30",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "not_valid_before",
+                                    "description": "客票生效日期"
+                                },
+                                {
+                                    "value": "2023-11-30",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "not_valid_after",
+                                    "description": "有效截至日期"
+                                },
+                                {
+                                    "value": "1PC",
+                                    "position": [
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "key": "allow",
+                                    "description": "免费行李"
+                                }
+                            ]
+                        ],
+                        "qr_code_list": [
+                            [
+                                {
+                                    "value": "https://www.textin.com/",
+                                    "position": [
+                                        1257,
+                                        1767,
+                                        1375,
+                                        1768,
+                                        1374,
+                                        1886,
+                                        1257,
+                                        1885
+                                    ],
+                                    "key": "qr_code_info",
+                                    "description": "二维码内容"
+                                }
+                            ]
+                        ],
+                        "rotated_image_height": 1003,
+                        "kind": "traffic",
+                        "item_list": [
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "agentcode",
+                                "description": "销售网点代号"
+                            },
+                            {
+                                "value": "合小合",
+                                "position": [
+                                    290,
+                                    1909,
+                                    371,
+                                    1909,
+                                    371,
+                                    1941,
+                                    290,
+                                    1941
+                                ],
+                                "key": "passenger_name",
+                                "description": "旅客姓名"
+                            },
+                            {
+                                "value": "310222********0000",
+                                "position": [
+                                    637,
+                                    1916,
+                                    876,
+                                    1916,
+                                    876,
+                                    1934,
+                                    638,
+                                    1934
+                                ],
+                                "key": "id_no",
+                                "description": "身份证件号码"
+                            },
+                            {
+                                "value": "-3180.00",
+                                "position": [
+                                    1651,
+                                    2300,
+                                    1760,
+                                    2290,
+                                    1760,
+                                    2316,
+                                    1651,
+                                    2304
+                                ],
+                                "key": "total",
+                                "description": "合计金额"
+                            },
+                            {
+                                "value": "-2752.29",
+                                "position": [
+                                    650,
+                                    2300,
+                                    758,
+                                    2293,
+                                    758,
+                                    2310,
+                                    650,
+                                    2303
+                                ],
+                                "key": "fare",
+                                "description": "票价"
+                            },
+                            {
+                                "value": "-50.00",
+                                "position": [
+                                    1237,
+                                    2291,
+                                    1380,
+                                    2290,
+                                    1380,
+                                    2316,
+                                    1237,
+                                    2317
+                                ],
+                                "key": "civil_aviation_fund",
+                                "description": "民航发展基金"
+                            },
+                            {
+                                "value": "-119.27",
+                                "position": [
+                                    772,
+                                    2291,
+                                    928,
+                                    2291,
+                                    928,
+                                    2316,
+                                    772,
+                                    2316
+                                ],
+                                "key": "fuel_surcharge",
+                                "description": "燃油附加费"
+                            },
+                            {
+                                "value": "0.00",
+                                "position": [
+                                    1429,
+                                    2290,
+                                    1543,
+                                    2290,
+                                    1544,
+                                    2316,
+                                    1429,
+                                    2316
+                                ],
+                                "key": "other_taxes",
+                                "description": "其他税费"
+                            },
+                            {
+                                "value": "2023-11-03",
+                                "position": [
+                                    1609,
+                                    2409,
+                                    1753,
+                                    2409,
+                                    1753,
+                                    2436,
+                                    1610,
+                                    2436
+                                ],
+                                "key": "issued_date",
+                                "description": "填开日期"
+                            },
+                            {
+                                "value": "上海合合信息科技股份有限公司",
+                                "position": [
+                                    803,
+                                    2405,
+                                    1119,
+                                    2405,
+                                    1119,
+                                    2434,
+                                    803,
+                                    2435
+                                ],
+                                "key": "issued_by",
+                                "description": "填开单位"
+                            },
+                            {
+                                "value": "0000000000000",
+                                "position": [
+                                    273,
+                                    2342,
+                                    585,
+                                    2341,
+                                    585,
+                                    2369,
+                                    273,
+                                    2370
+                                ],
+                                "key": "e_ticket_no",
+                                "description": "电子客票号码"
+                            },
+                            {
+                                "value": "Q/不得签改退票收费",
+                                "position": [
+                                    1115,
+                                    1911,
+                                    1327,
+                                    1911,
+                                    1327,
+                                    1940,
+                                    1115,
+                                    1940
+                                ],
+                                "key": "restriction",
+                                "description": "签注"
+                            },
+                            {
+                                "value": "XXX",
+                                "position": [
+                                    1544,
+                                    2342,
+                                    1657,
+                                    2342,
+                                    1657,
+                                    2370,
+                                    1544,
+                                    2370
+                                ],
+                                "key": "insurance",
+                                "description": "保险费"
+                            },
+                            {
+                                "value": "国内",
+                                "position": [
+                                    280,
+                                    1779,
+                                    488,
+                                    1779,
+                                    488,
+                                    1807,
+                                    280,
+                                    1807
+                                ],
+                                "key": "international_flag",
+                                "description": "国内国际标签"
+                            },
+                            {
+                                "value": "红冲",
+                                "position": [
+                                    1387,
+                                    1779,
+                                    1551,
+                                    1779,
+                                    1551,
+                                    1807,
+                                    1387,
+                                    1807
+                                ],
+                                "key": "issuing_status",
+                                "description": "开票状态"
+                            },
+                            {
+                                "value": "00000000000000000000",
+                                "position": [
+                                    1387,
+                                    1810,
+                                    1754,
+                                    1810,
+                                    1754,
+                                    1839,
+                                    1387,
+                                    1839
+                                ],
+                                "key": "number_of_original_invoice",
+                                "description": "原发票号码"
+                            },
+                            {
+                                "value": "00000000000000000000",
+                                "position": [
+                                    1498,
+                                    1842,
+                                    1734,
+                                    1842,
+                                    1734,
+                                    1869,
+                                    1498,
+                                    1869
+                                ],
+                                "key": "invoice_number",
+                                "description": "发票号码"
+                            },
+                            {
+                                "value": "9%",
+                                "position": [
+                                    1015,
+                                    2291,
+                                    1047,
+                                    2291,
+                                    1047,
+                                    2316,
+                                    1015,
+                                    2316
+                                ],
+                                "key": "tax_rate",
+                                "description": "增值税税率"
+                            },
+                            {
+                                "value": "-258.44",
+                                "position": [
+                                    1057,
+                                    2291,
+                                    1212,
+                                    2291,
+                                    1212,
+                                    2317,
+                                    1057,
+                                    2317
+                                ],
+                                "key": "tax",
+                                "description": "增值税税额"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "check_code",
+                                "description": "验证码"
+                            },
+                            {
+                                "value": "成都国内进出港在T2航站楼",
+                                "position": [
+                                    895,
+                                    2341,
+                                    1264,
+                                    2340,
+                                    1264,
+                                    2370,
+                                    895,
+                                    2371
+                                ],
+                                "key": "prompt_information",
+                                "description": "提示信息"
+                            },
+                            {
+                                "value": "上海合合信息科技股份有限公司",
+                                "position": [
+                                    393,
+                                    2472,
+                                    707,
+                                    2472,
+                                    707,
+                                    2500,
+                                    393,
+                                    2500
+                                ],
+                                "key": "buyer",
+                                "description": "购买方名称"
+                            },
+                            {
+                                "value": "000000000000000000",
+                                "position": [
+                                    1046,
+                                    2473,
+                                    1608,
+                                    2472,
+                                    1608,
+                                    2501,
+                                    1046,
+                                    2502
+                                ],
+                                "key": "buyer_tax_id",
+                                "description": "统一社会信用代码/购买方纳税人识别号"
+                            },
+                            {
+                                "value": "",
+                                "position": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "key": "gp_no",
+                                "description": "GP单号"
+                            }
+                        ],
+                        "position": [
+                            171,
+                            1641,
+                            1864,
+                            1642,
+                            1867,
+                            2621,
+                            171,
+                            2624
+                        ],
+                        "kind_description": "交通",
+                        "type": "flight_digital_ticket"
+                    }
+                ],
+                "height": 2885,
+                "width": 2041
+            }
+        }
+    ]
+}
