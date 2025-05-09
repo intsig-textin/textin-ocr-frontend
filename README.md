@@ -346,10 +346,6 @@ const { tools, scale, rotate, position, onMouseDown, onWheel, resizeScale } =
 - 支持可编辑、复制、导出结果
 - 支持更多复杂类型如通用文档解析识别结果展示
 
-## 贡献
-
-欢迎提交 Issue 和 Pull Request。
-
 ## 二次开发
 
 项目基于 vite 和 react 构建，您可将该项目 fork 到本地自主扩展：
